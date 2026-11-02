@@ -1,11 +1,23 @@
 {
-  "updated_at": "2026-10-26T04:40:00Z",
+  "updated_at": "2026-11-02T04:50:00Z",
   "items": [
     {
-      "headline": "The MoF register now lists 70 fully accredited UAE eInvoicing service providers, including Zoho; three other providers remain under final accreditation assessment.",
+      "headline": "Cabinet Decision No. 173 of 2026 introduces revised UAE eInvoicing penalties, including AED 5,000 for initial implementation non-compliance and capped continuing penalties.",
+      "url": "https://mof.gov.ae/en/news/mof-announces-updated-administrative-penalties-related-to-the-uae-einvoicing-system-to-enhance-clarity-and-support-business-compliance/",
+      "source": "UAE Ministry of Finance",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "The Ministry of Finance register now lists 83 fully accredited UAE eInvoicing service providers, including Zoho and Tally, with no providers shown under final assessment.",
       "url": "https://mof.gov.ae/en/about-us/initiatives/einvoicing/einvoicing-accredited-service-providers-asps/",
       "source": "UAE Ministry of Finance",
-      "published_at": "2026-10-22"
+      "published_at": "2026-11-01"
+    },
+    {
+      "headline": "Ministerial Decision No. 197 of 2026 temporarily excludes intra-VAT-group transactions from eInvoicing and removes the UAE data-storage-location requirement, effective 1 October 2026.",
+      "url": "https://mof.gov.ae/en/news/ministry-of-finance-amends-electronic-invoicing-regulations-to-ease-the-burden-on-businesses/",
+      "source": "UAE Ministry of Finance",
+      "published_at": "2026-10-19"
     },
     {
       "headline": "Ministerial Decision No. 168 of 2026 introduces direct ASP accreditation after full assessment and testing, effective 1 October 2026.",
@@ -18,18 +30,6 @@
       "url": "https://tax.gov.ae/en/media.centre/News/federal.tax.authority.organises.joint.awareness.meeting.for.accredited.service.providers.and.persons.subject.to.the.einvoicing.system.aspx",
       "source": "UAE Federal Tax Authority",
       "published_at": "2026-09-29"
-    },
-    {
-      "headline": "30 October 2026 deadline: businesses with annual revenue of AED 50 million or more must appoint an Accredited Service Provider for UAE eInvoicing.",
-      "url": "https://mof.gov.ae/en/news/ministry-of-finance-hosts-awareness-event-in-ras-al-khaimah-on-latest-einvoicing-updates/",
-      "source": "UAE Ministry of Finance",
-      "published_at": "2026-09-27"
-    },
-    {
-      "headline": "VAT returns for tax periods ending 30 September 2026 are generally due by 28 October 2026.",
-      "url": "https://u.ae/en/information-and-services/finance-and-investment/taxation/vat/filing-a-tax-return-for-vat",
-      "source": "UAE Government",
-      "published_at": "2026-10-03"
     }
   ]
 }
