@@ -1,17 +1,29 @@
 {
-  "updated_at": "2026-11-09T05:05:00Z",
+  "updated_at": "2026-11-16T05:23:00Z",
   "items": [
+    {
+      "headline": "FTA Public Clarification VATP048 explains supplier-verification evidence needed to protect input VAT recovery where tax evasion is established.",
+      "url": "https://tax.gov.ae/en/content/verification.of.the.validity.and.integrity.of.the.supplies.before.deduction.of.input.tax.aspx",
+      "source": "UAE Federal Tax Authority",
+      "published_at": "2026-11-11"
+    },
+    {
+      "headline": "The FTA has comprehensively revised its Corporate Tax Groups guide, including eligibility, aggregated financial statements, tax losses and ongoing compliance.",
+      "url": "https://tax.gov.ae/en/content/tax.groups.CTGTGR1.aspx",
+      "source": "UAE Federal Tax Authority",
+      "published_at": "2026-11-11"
+    },
+    {
+      "headline": "The Ministry of Finance register now lists 88 fully accredited UAE eInvoicing service providers, expanding the available provider market for implementation.",
+      "url": "https://mof.gov.ae/en/about-us/initiatives/einvoicing/einvoicing-accredited-service-providers-asps/",
+      "source": "UAE Ministry of Finance",
+      "published_at": "2026-11-16"
+    },
     {
       "headline": "Cabinet Decision No. 173 of 2026 introduces revised UAE eInvoicing penalties, including AED 5,000 for initial implementation non-compliance and capped continuing penalties.",
       "url": "https://mof.gov.ae/en/news/mof-announces-updated-administrative-penalties-related-to-the-uae-einvoicing-system-to-enhance-clarity-and-support-business-compliance/",
       "source": "UAE Ministry of Finance",
       "published_at": "2026-10-30"
-    },
-    {
-      "headline": "The Ministry of Finance register now lists 86 fully accredited UAE eInvoicing service providers, expanding the available provider market for implementation.",
-      "url": "https://mof.gov.ae/en/about-us/initiatives/einvoicing/einvoicing-accredited-service-providers-asps/",
-      "source": "UAE Ministry of Finance",
-      "published_at": "2026-11-09"
     },
     {
       "headline": "Ministerial Decision No. 197 of 2026 temporarily excludes intra-VAT-group transactions from eInvoicing and removes the UAE data-storage-location requirement, effective 1 October 2026.",
@@ -24,12 +36,6 @@
       "url": "https://mof.gov.ae/en/news/ministry-of-finance-issues-decision-on-accreditation-of-einvoicing-service-providers-under-updated-regulatory-framework/",
       "source": "UAE Ministry of Finance",
       "published_at": "2026-10-09"
-    },
-    {
-      "headline": "Businesses subject to eInvoicing should select an accredited provider, contract and integrate with it, and then complete the required EmaraTax procedures.",
-      "url": "https://tax.gov.ae/en/media.centre/News/federal.tax.authority.organises.joint.awareness.meeting.for.accredited.service.providers.and.persons.subject.to.the.einvoicing.system.aspx",
-      "source": "UAE Federal Tax Authority",
-      "published_at": "2026-09-29"
     }
   ]
 }
